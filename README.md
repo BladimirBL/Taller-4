@@ -14,7 +14,7 @@ novenomanzana.py	9. Descuento en la frutería (manzanas)
 
 #  Taller-4
 
-> Data analysis project focused on identifying operational patterns in a call center by analyzing call volume, staffing levels, efficiency, and abandoned call rates across different shifts. The goal is to uncover peak demand periods and propose data-driven staffing and resource optimization strategies.
+> Dar la solución a los siguientes problemas a través de un algoritmo, tenga en cuenta la definición de variables, la solución en pseudocódigo, diagrama de flujo y prueba de escritorio.
 
 ---
 
