@@ -42,7 +42,7 @@ Archivo	Ejercicio
 ## 🎯 Key Questions Answered
 
 
-> 1.	Una empresa cuenta con tres departamentos y ha implementado un plan de incentivos para motivar a sus vendedores. Al finalizar cada período de ventas, se solicita a cada departamento que reporte su importe global de ventas. Basado en estos datos, se evalúa si algún departamento ha superado el 33% de las ventas totales de la empresa.
+1.	Una empresa cuenta con tres departamentos y ha implementado un plan de incentivos para motivar a sus vendedores. Al finalizar cada período de ventas, se solicita a cada departamento que reporte su importe global de ventas. Basado en estos datos, se evalúa si algún departamento ha superado el 33% de las ventas totales de la empresa.
 El incentivo funciona de la siguiente manera:
 •	Si un departamento excede el 33% de las ventas totales, a cada uno de sus vendedores se les otorga un bono adicional equivalente al 20% de su salario mensual.
 •	Las nóminas de los tres departamentos son iguales, lo que implica que todos los departamentos tienen la misma cantidad de trabajadores y que el salario de los vendedores es el mismo en cada departamento.
