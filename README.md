@@ -53,7 +53,7 @@ Desarrollar un algoritmo que, a partir de los datos proporcionados que determine
 
 
 
-**primeroincentivos.py	1. Incentivos por departamento (bono del 20% si superan el 33% de las ventas)
+primeroincentivos.py	1. Incentivos por departamento (bono del 20% si superan el 33% de las ventas)
 
 segundoesferas.py	2. Cuatro esferas: cuál es la diferente y si pesa más o menos
 
